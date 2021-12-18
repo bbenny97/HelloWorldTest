@@ -1,3 +1,3 @@
 # HelloWorldTest
-Testing understanding @GH
+Testing understanding @GH by completing hello world tutorial 
 
